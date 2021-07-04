@@ -1,4 +1,4 @@
-# hello-world
+# Crypto Tax Calculator
 
 ## Project setup
 ```
